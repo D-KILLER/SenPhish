@@ -1,2 +1,2 @@
 # SenPhish
-atomate phishing tool
+Atomate phishing tool
