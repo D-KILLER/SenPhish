@@ -79,11 +79,6 @@ printf "\n"
 printf "       .:.:.\e[40;38;5;82m Phishing Tool coded by: @SENURA RANSIKA\e[0m.:.:.\e[0m\n"
 printf "\n"
 echo -e " \e[92m+++++++++++++++++++++++++++++++++++++++++++++++++++"
-
-
-
-
-
 }          
 
 catch_cred() {
