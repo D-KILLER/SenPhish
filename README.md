@@ -1,2 +1,2 @@
 # SenPhish
-Atomate phishing tool
+Automate phishing tool
